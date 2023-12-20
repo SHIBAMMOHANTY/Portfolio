@@ -29,7 +29,7 @@ LINKDIN-https://www.linkedin.com/in/shibammohanty/
 <section id="about">
     <div class="about-content">
         <div class="about-image">
-            <img src="image1.jpg" alt="Shibam Mohanty">
+            <img src="main.jpg" alt="Shibam Mohanty">
         </div>
         <div class="about-text">
             <h2>About Me</h2>
